@@ -1,0 +1,1002 @@
+[
+  {
+    "student_id": "S1001",
+    "name": "Student 001",
+    "marks": {
+      "Python": 49,
+      "Machine Learning": 38,
+      "Cloud Computing": 70
+    },
+    "attendance": 70
+  },
+  {
+    "student_id": "S1002",
+    "name": "Student 002",
+    "marks": {
+      "Python": 63,
+      "Machine Learning": 52,
+      "Cloud Computing": 48
+    },
+    "attendance": 98
+  },
+  {
+    "student_id": "S1003",
+    "name": "Student 003",
+    "marks": {
+      "Python": 46,
+      "Machine Learning": 89,
+      "Cloud Computing": 39
+    },
+    "attendance": 56
+  },
+  {
+    "student_id": "S1004",
+    "name": "Student 004",
+    "marks": {
+      "Python": 46,
+      "Machine Learning": 62,
+      "Cloud Computing": 64
+    },
+    "attendance": 87
+  },
+  {
+    "student_id": "S1005",
+    "name": "Student 005",
+    "marks": {
+      "Python": 38,
+      "Machine Learning": 60,
+      "Cloud Computing": 88
+    },
+    "attendance": 69
+  },
+  {
+    "student_id": "S1006",
+    "name": "Student 006",
+    "marks": {
+      "Python": 92,
+      "Machine Learning": 70,
+      "Cloud Computing": 35
+    },
+    "attendance": 65
+  },
+  {
+    "student_id": "S1007",
+    "name": "Student 007",
+    "marks": {
+      "Python": 89,
+      "Machine Learning": 78,
+      "Cloud Computing": 70
+    },
+    "attendance": 64
+  },
+  {
+    "student_id": "S1008",
+    "name": "Student 008",
+    "marks": {
+      "Python": 62,
+      "Machine Learning": 78,
+      "Cloud Computing": 48
+    },
+    "attendance": 60
+  },
+  {
+    "student_id": "S1009",
+    "name": "Student 009",
+    "marks": {
+      "Python": 83,
+      "Machine Learning": 47,
+      "Cloud Computing": 80
+    },
+    "attendance": 77
+  },
+  {
+    "student_id": "S1010",
+    "name": "Student 010",
+    "marks": {
+      "Python": 68,
+      "Machine Learning": 40,
+      "Cloud Computing": 93
+    },
+    "attendance": 89
+  },
+  {
+    "student_id": "S1011",
+    "name": "Student 011",
+    "marks": {
+      "Python": 50,
+      "Machine Learning": 83,
+      "Cloud Computing": 45
+    },
+    "attendance": 90
+  },
+  {
+    "student_id": "S1012",
+    "name": "Student 012",
+    "marks": {
+      "Python": 72,
+      "Machine Learning": 81,
+      "Cloud Computing": 59
+    },
+    "attendance": 100
+  },
+  {
+    "student_id": "S1013",
+    "name": "Student 013",
+    "marks": {
+      "Python": 43,
+      "Machine Learning": 40,
+      "Cloud Computing": 64
+    },
+    "attendance": 73
+  },
+  {
+    "student_id": "S1014",
+    "name": "Student 014",
+    "marks": {
+      "Python": 45,
+      "Machine Learning": 64,
+      "Cloud Computing": 47
+    },
+    "attendance": 79
+  },
+  {
+    "student_id": "S1015",
+    "name": "Student 015",
+    "marks": {
+      "Python": 70,
+      "Machine Learning": 93,
+      "Cloud Computing": 81
+    },
+    "attendance": 65
+  },
+  {
+    "student_id": "S1016",
+    "name": "Student 016",
+    "marks": {
+      "Python": 82,
+      "Machine Learning": 80,
+      "Cloud Computing": 61
+    },
+    "attendance": 97
+  },
+  {
+    "student_id": "S1017",
+    "name": "Student 017",
+    "marks": {
+      "Python": 69,
+      "Machine Learning": 44,
+      "Cloud Computing": 56
+    },
+    "attendance": 89
+  },
+  {
+    "student_id": "S1018",
+    "name": "Student 018",
+    "marks": {
+      "Python": 66,
+      "Machine Learning": 55,
+      "Cloud Computing": 94
+    },
+    "attendance": 79
+  },
+  {
+    "student_id": "S1019",
+    "name": "Student 019",
+    "marks": {
+      "Python": 69,
+      "Machine Learning": 63,
+      "Cloud Computing": 76
+    },
+    "attendance": 58
+  },
+  {
+    "student_id": "S1020",
+    "name": "Student 020",
+    "marks": {
+      "Python": 64,
+      "Machine Learning": 39,
+      "Cloud Computing": 75
+    },
+    "attendance": 80
+  },
+  {
+    "student_id": "S1021",
+    "name": "Student 021",
+    "marks": {
+      "Python": 69,
+      "Machine Learning": 43,
+      "Cloud Computing": 62
+    },
+    "attendance": 91
+  },
+  {
+    "student_id": "S1022",
+    "name": "Student 022",
+    "marks": {
+      "Python": 75,
+      "Machine Learning": 62,
+      "Cloud Computing": 98
+    },
+    "attendance": 80
+  },
+  {
+    "student_id": "S1023",
+    "name": "Student 023",
+    "marks": {
+      "Python": 93,
+      "Machine Learning": 53,
+      "Cloud Computing": 68
+    },
+    "attendance": 63
+  },
+  {
+    "student_id": "S1024",
+    "name": "Student 024",
+    "marks": {
+      "Python": 66,
+      "Machine Learning": 68,
+      "Cloud Computing": 89
+    },
+    "attendance": 92
+  },
+  {
+    "student_id": "S1025",
+    "name": "Student 025",
+    "marks": {
+      "Python": 86,
+      "Machine Learning": 81,
+      "Cloud Computing": 63
+    },
+    "attendance": 63
+  },
+  {
+    "student_id": "S1026",
+    "name": "Student 026",
+    "marks": {
+      "Python": 100,
+      "Machine Learning": 98,
+      "Cloud Computing": 46
+    },
+    "attendance": 58
+  },
+  {
+    "student_id": "S1027",
+    "name": "Student 027",
+    "marks": {
+      "Python": 49,
+      "Machine Learning": 54,
+      "Cloud Computing": 55
+    },
+    "attendance": 98
+  },
+  {
+    "student_id": "S1028",
+    "name": "Student 028",
+    "marks": {
+      "Python": 89,
+      "Machine Learning": 43,
+      "Cloud Computing": 84
+    },
+    "attendance": 79
+  },
+  {
+    "student_id": "S1029",
+    "name": "Student 029",
+    "marks": {
+      "Python": 94,
+      "Machine Learning": 67,
+      "Cloud Computing": 36
+    },
+    "attendance": 98
+  },
+  {
+    "student_id": "S1030",
+    "name": "Student 030",
+    "marks": {
+      "Python": 49,
+      "Machine Learning": 69,
+      "Cloud Computing": 78
+    },
+    "attendance": 62
+  },
+  {
+    "student_id": "S1031",
+    "name": "Student 031",
+    "marks": {
+      "Python": 72,
+      "Machine Learning": 90,
+      "Cloud Computing": 55
+    },
+    "attendance": 84
+  },
+  {
+    "student_id": "S1032",
+    "name": "Student 032",
+    "marks": {
+      "Python": 35,
+      "Machine Learning": 68,
+      "Cloud Computing": 99
+    },
+    "attendance": 66
+  },
+  {
+    "student_id": "S1033",
+    "name": "Student 033",
+    "marks": {
+      "Python": 99,
+      "Machine Learning": 48,
+      "Cloud Computing": 73
+    },
+    "attendance": 95
+  },
+  {
+    "student_id": "S1034",
+    "name": "Student 034",
+    "marks": {
+      "Python": 99,
+      "Machine Learning": 60,
+      "Cloud Computing": 54
+    },
+    "attendance": 78
+  },
+  {
+    "student_id": "S1035",
+    "name": "Student 035",
+    "marks": {
+      "Python": 55,
+      "Machine Learning": 35,
+      "Cloud Computing": 76
+    },
+    "attendance": 86
+  },
+  {
+    "student_id": "S1036",
+    "name": "Student 036",
+    "marks": {
+      "Python": 37,
+      "Machine Learning": 49,
+      "Cloud Computing": 81
+    },
+    "attendance": 74
+  },
+  {
+    "student_id": "S1037",
+    "name": "Student 037",
+    "marks": {
+      "Python": 65,
+      "Machine Learning": 42,
+      "Cloud Computing": 65
+    },
+    "attendance": 91
+  },
+  {
+    "student_id": "S1038",
+    "name": "Student 038",
+    "marks": {
+      "Python": 45,
+      "Machine Learning": 45,
+      "Cloud Computing": 97
+    },
+    "attendance": 59
+  },
+  {
+    "student_id": "S1039",
+    "name": "Student 039",
+    "marks": {
+      "Python": 51,
+      "Machine Learning": 51,
+      "Cloud Computing": 95
+    },
+    "attendance": 90
+  },
+  {
+    "student_id": "S1040",
+    "name": "Student 040",
+    "marks": {
+      "Python": 56,
+      "Machine Learning": 68,
+      "Cloud Computing": 89
+    },
+    "attendance": 68
+  },
+  {
+    "student_id": "S1041",
+    "name": "Student 041",
+    "marks": {
+      "Python": 60,
+      "Machine Learning": 74,
+      "Cloud Computing": 86
+    },
+    "attendance": 97
+  },
+  {
+    "student_id": "S1042",
+    "name": "Student 042",
+    "marks": {
+      "Python": 82,
+      "Machine Learning": 91,
+      "Cloud Computing": 92
+    },
+    "attendance": 62
+  },
+  {
+    "student_id": "S1043",
+    "name": "Student 043",
+    "marks": {
+      "Python": 66,
+      "Machine Learning": 63,
+      "Cloud Computing": 43
+    },
+    "attendance": 76
+  },
+  {
+    "student_id": "S1044",
+    "name": "Student 044",
+    "marks": {
+      "Python": 37,
+      "Machine Learning": 64,
+      "Cloud Computing": 63
+    },
+    "attendance": 55
+  },
+  {
+    "student_id": "S1045",
+    "name": "Student 045",
+    "marks": {
+      "Python": 44,
+      "Machine Learning": 42,
+      "Cloud Computing": 64
+    },
+    "attendance": 59
+  },
+  {
+    "student_id": "S1046",
+    "name": "Student 046",
+    "marks": {
+      "Python": 39,
+      "Machine Learning": 77,
+      "Cloud Computing": 44
+    },
+    "attendance": 87
+  },
+  {
+    "student_id": "S1047",
+    "name": "Student 047",
+    "marks": {
+      "Python": 65,
+      "Machine Learning": 70,
+      "Cloud Computing": 97
+    },
+    "attendance": 68
+  },
+  {
+    "student_id": "S1048",
+    "name": "Student 048",
+    "marks": {
+      "Python": 51,
+      "Machine Learning": 95,
+      "Cloud Computing": 66
+    },
+    "attendance": 85
+  },
+  {
+    "student_id": "S1049",
+    "name": "Student 049",
+    "marks": {
+      "Python": 87,
+      "Machine Learning": 59,
+      "Cloud Computing": 47
+    },
+    "attendance": 61
+  },
+  {
+    "student_id": "S1050",
+    "name": "Student 050",
+    "marks": {
+      "Python": 90,
+      "Machine Learning": 80,
+      "Cloud Computing": 89
+    },
+    "attendance": 81
+  },
+  {
+    "student_id": "S1051",
+    "name": "Student 051",
+    "marks": {
+      "Python": 94,
+      "Machine Learning": 41,
+      "Cloud Computing": 47
+    },
+    "attendance": 58
+  },
+  {
+    "student_id": "S1052",
+    "name": "Student 052",
+    "marks": {
+      "Python": 86,
+      "Machine Learning": 78,
+      "Cloud Computing": 48
+    },
+    "attendance": 70
+  },
+  {
+    "student_id": "S1053",
+    "name": "Student 053",
+    "marks": {
+      "Python": 59,
+      "Machine Learning": 59,
+      "Cloud Computing": 92
+    },
+    "attendance": 63
+  },
+  {
+    "student_id": "S1054",
+    "name": "Student 054",
+    "marks": {
+      "Python": 89,
+      "Machine Learning": 58,
+      "Cloud Computing": 70
+    },
+    "attendance": 84
+  },
+  {
+    "student_id": "S1055",
+    "name": "Student 055",
+    "marks": {
+      "Python": 66,
+      "Machine Learning": 44,
+      "Cloud Computing": 91
+    },
+    "attendance": 90
+  },
+  {
+    "student_id": "S1056",
+    "name": "Student 056",
+    "marks": {
+      "Python": 47,
+      "Machine Learning": 41,
+      "Cloud Computing": 36
+    },
+    "attendance": 60
+  },
+  {
+    "student_id": "S1057",
+    "name": "Student 057",
+    "marks": {
+      "Python": 65,
+      "Machine Learning": 56,
+      "Cloud Computing": 87
+    },
+    "attendance": 86
+  },
+  {
+    "student_id": "S1058",
+    "name": "Student 058",
+    "marks": {
+      "Python": 96,
+      "Machine Learning": 62,
+      "Cloud Computing": 86
+    },
+    "attendance": 58
+  },
+  {
+    "student_id": "S1059",
+    "name": "Student 059",
+    "marks": {
+      "Python": 56,
+      "Machine Learning": 83,
+      "Cloud Computing": 35
+    },
+    "attendance": 79
+  },
+  {
+    "student_id": "S1060",
+    "name": "Student 060",
+    "marks": {
+      "Python": 68,
+      "Machine Learning": 93,
+      "Cloud Computing": 71
+    },
+    "attendance": 82
+  },
+  {
+    "student_id": "S1061",
+    "name": "Student 061",
+    "marks": {
+      "Python": 97,
+      "Machine Learning": 54,
+      "Cloud Computing": 59
+    },
+    "attendance": 73
+  },
+  {
+    "student_id": "S1062",
+    "name": "Student 062",
+    "marks": {
+      "Python": 62,
+      "Machine Learning": 42,
+      "Cloud Computing": 42
+    },
+    "attendance": 75
+  },
+  {
+    "student_id": "S1063",
+    "name": "Student 063",
+    "marks": {
+      "Python": 42,
+      "Machine Learning": 41,
+      "Cloud Computing": 96
+    },
+    "attendance": 87
+  },
+  {
+    "student_id": "S1064",
+    "name": "Student 064",
+    "marks": {
+      "Python": 55,
+      "Machine Learning": 42,
+      "Cloud Computing": 100
+    },
+    "attendance": 60
+  },
+  {
+    "student_id": "S1065",
+    "name": "Student 065",
+    "marks": {
+      "Python": 58,
+      "Machine Learning": 43,
+      "Cloud Computing": 43
+    },
+    "attendance": 98
+  },
+  {
+    "student_id": "S1066",
+    "name": "Student 066",
+    "marks": {
+      "Python": 65,
+      "Machine Learning": 86,
+      "Cloud Computing": 50
+    },
+    "attendance": 91
+  },
+  {
+    "student_id": "S1067",
+    "name": "Student 067",
+    "marks": {
+      "Python": 66,
+      "Machine Learning": 40,
+      "Cloud Computing": 45
+    },
+    "attendance": 81
+  },
+  {
+    "student_id": "S1068",
+    "name": "Student 068",
+    "marks": {
+      "Python": 75,
+      "Machine Learning": 68,
+      "Cloud Computing": 61
+    },
+    "attendance": 97
+  },
+  {
+    "student_id": "S1069",
+    "name": "Student 069",
+    "marks": {
+      "Python": 75,
+      "Machine Learning": 65,
+      "Cloud Computing": 68
+    },
+    "attendance": 80
+  },
+  {
+    "student_id": "S1070",
+    "name": "Student 070",
+    "marks": {
+      "Python": 51,
+      "Machine Learning": 73,
+      "Cloud Computing": 93
+    },
+    "attendance": 75
+  },
+  {
+    "student_id": "S1071",
+    "name": "Student 071",
+    "marks": {
+      "Python": 44,
+      "Machine Learning": 36,
+      "Cloud Computing": 93
+    },
+    "attendance": 94
+  },
+  {
+    "student_id": "S1072",
+    "name": "Student 072",
+    "marks": {
+      "Python": 47,
+      "Machine Learning": 44,
+      "Cloud Computing": 62
+    },
+    "attendance": 87
+  },
+  {
+    "student_id": "S1073",
+    "name": "Student 073",
+    "marks": {
+      "Python": 68,
+      "Machine Learning": 51,
+      "Cloud Computing": 79
+    },
+    "attendance": 59
+  },
+  {
+    "student_id": "S1074",
+    "name": "Student 074",
+    "marks": {
+      "Python": 66,
+      "Machine Learning": 82,
+      "Cloud Computing": 71
+    },
+    "attendance": 65
+  },
+  {
+    "student_id": "S1075",
+    "name": "Student 075",
+    "marks": {
+      "Python": 91,
+      "Machine Learning": 73,
+      "Cloud Computing": 36
+    },
+    "attendance": 97
+  },
+  {
+    "student_id": "S1076",
+    "name": "Student 076",
+    "marks": {
+      "Python": 73,
+      "Machine Learning": 48,
+      "Cloud Computing": 52
+    },
+    "attendance": 71
+  },
+  {
+    "student_id": "S1077",
+    "name": "Student 077",
+    "marks": {
+      "Python": 49,
+      "Machine Learning": 48,
+      "Cloud Computing": 54
+    },
+    "attendance": 72
+  },
+  {
+    "student_id": "S1078",
+    "name": "Student 078",
+    "marks": {
+      "Python": 71,
+      "Machine Learning": 61,
+      "Cloud Computing": 78
+    },
+    "attendance": 68
+  },
+  {
+    "student_id": "S1079",
+    "name": "Student 079",
+    "marks": {
+      "Python": 68,
+      "Machine Learning": 99,
+      "Cloud Computing": 97
+    },
+    "attendance": 71
+  },
+  {
+    "student_id": "S1080",
+    "name": "Student 080",
+    "marks": {
+      "Python": 41,
+      "Machine Learning": 46,
+      "Cloud Computing": 89
+    },
+    "attendance": 72
+  },
+  {
+    "student_id": "S1081",
+    "name": "Student 081",
+    "marks": {
+      "Python": 40,
+      "Machine Learning": 35,
+      "Cloud Computing": 77
+    },
+    "attendance": 63
+  },
+  {
+    "student_id": "S1082",
+    "name": "Student 082",
+    "marks": {
+      "Python": 68,
+      "Machine Learning": 55,
+      "Cloud Computing": 91
+    },
+    "attendance": 90
+  },
+  {
+    "student_id": "S1083",
+    "name": "Student 083",
+    "marks": {
+      "Python": 89,
+      "Machine Learning": 36,
+      "Cloud Computing": 49
+    },
+    "attendance": 59
+  },
+  {
+    "student_id": "S1084",
+    "name": "Student 084",
+    "marks": {
+      "Python": 54,
+      "Machine Learning": 39,
+      "Cloud Computing": 82
+    },
+    "attendance": 92
+  },
+  {
+    "student_id": "S1085",
+    "name": "Student 085",
+    "marks": {
+      "Python": 53,
+      "Machine Learning": 90,
+      "Cloud Computing": 51
+    },
+    "attendance": 57
+  },
+  {
+    "student_id": "S1086",
+    "name": "Student 086",
+    "marks": {
+      "Python": 74,
+      "Machine Learning": 81,
+      "Cloud Computing": 40
+    },
+    "attendance": 77
+  },
+  {
+    "student_id": "S1087",
+    "name": "Student 087",
+    "marks": {
+      "Python": 61,
+      "Machine Learning": 66,
+      "Cloud Computing": 48
+    },
+    "attendance": 77
+  },
+  {
+    "student_id": "S1088",
+    "name": "Student 088",
+    "marks": {
+      "Python": 87,
+      "Machine Learning": 54,
+      "Cloud Computing": 65
+    },
+    "attendance": 65
+  },
+  {
+    "student_id": "S1089",
+    "name": "Student 089",
+    "marks": {
+      "Python": 57,
+      "Machine Learning": 87,
+      "Cloud Computing": 38
+    },
+    "attendance": 66
+  },
+  {
+    "student_id": "S1090",
+    "name": "Student 090",
+    "marks": {
+      "Python": 77,
+      "Machine Learning": 87,
+      "Cloud Computing": 66
+    },
+    "attendance": 72
+  },
+  {
+    "student_id": "S1091",
+    "name": "Student 091",
+    "marks": {
+      "Python": 55,
+      "Machine Learning": 48,
+      "Cloud Computing": 83
+    },
+    "attendance": 57
+  },
+  {
+    "student_id": "S1092",
+    "name": "Student 092",
+    "marks": {
+      "Python": 95,
+      "Machine Learning": 63,
+      "Cloud Computing": 60
+    },
+    "attendance": 84
+  },
+  {
+    "student_id": "S1093",
+    "name": "Student 093",
+    "marks": {
+      "Python": 79,
+      "Machine Learning": 74,
+      "Cloud Computing": 64
+    },
+    "attendance": 69
+  },
+  {
+    "student_id": "S1094",
+    "name": "Student 094",
+    "marks": {
+      "Python": 38,
+      "Machine Learning": 59,
+      "Cloud Computing": 86
+    },
+    "attendance": 76
+  },
+  {
+    "student_id": "S1095",
+    "name": "Student 095",
+    "marks": {
+      "Python": 70,
+      "Machine Learning": 43,
+      "Cloud Computing": 70
+    },
+    "attendance": 77
+  },
+  {
+    "student_id": "S1096",
+    "name": "Student 096",
+    "marks": {
+      "Python": 100,
+      "Machine Learning": 86,
+      "Cloud Computing": 77
+    },
+    "attendance": 56
+  },
+  {
+    "student_id": "S1097",
+    "name": "Student 097",
+    "marks": {
+      "Python": 49,
+      "Machine Learning": 68,
+      "Cloud Computing": 57
+    },
+    "attendance": 92
+  },
+  {
+    "student_id": "S1098",
+    "name": "Student 098",
+    "marks": {
+      "Python": 68,
+      "Machine Learning": 39,
+      "Cloud Computing": 48
+    },
+    "attendance": 93
+  },
+  {
+    "student_id": "S1099",
+    "name": "Student 099",
+    "marks": {
+      "Python": 90,
+      "Machine Learning": 79,
+      "Cloud Computing": 75
+    },
+    "attendance": 82
+  },
+  {
+    "student_id": "S1100",
+    "name": "Student 100",
+    "marks": {
+      "Python": 100,
+      "Machine Learning": 49,
+      "Cloud Computing": 84
+    },
+    "attendance": 91
+  }
+]
